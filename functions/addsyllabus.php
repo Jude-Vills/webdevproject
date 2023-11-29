@@ -26,6 +26,12 @@
                 echo "<font color='green'>Data added successfully.</font>";
                 echo "<br/><a href='../index.php>View Result</a>'";
             }
+
+            // else {
+            //     $result = mysqli_query($dbc, "<<UPDATE SQL QUERY>>");
+            //     echo "<font color='green'>Data added successfully.</font>";
+            //     echo "<br/><a href='../index.php>View Result</a>'";
+            // }
         }
         
         ?>
