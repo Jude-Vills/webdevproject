@@ -7,7 +7,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Sample Crud</title>
+        <title>CRUD</title>
+
     </head>
     <body>
         <h1>My Subjects</h1>
